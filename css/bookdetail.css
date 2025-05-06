@@ -1,0 +1,10 @@
+body {background-color: cornflowerblue;}
+
+#button {
+    background-color: lightgray;
+    color: white;
+    padding: 5px 15px;
+    text-decoration: none;
+}
+
+li {list-style-type: none;}
